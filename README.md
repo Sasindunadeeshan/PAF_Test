@@ -20,9 +20,3 @@ This project aims to develop a **Smart Railway E-Ticketing System** for Sri Lank
 - **QR Code Integration**: Secure APIs
 - **Cloud Hosting**: Microsoft Azure
 - **Security**: SSL/TLS encryption, OTP-based authentication
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/smart-railway-ticketing-system.git
